@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-[Patika.dev](www.patika.dev) ve [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında Git, GitHUB ve Markdown kullanımını öğrenmek ve pekiştirmek için açtığım bir repodur.
+[Patika.dev](https://app.patika.dev/serveta) ve [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında Git, GitHUB ve Markdown kullanımını öğrenmek ve pekiştirmek için açtığım bir repodur.
 
 ## Installation
 Öncelikle projeyi clonelayın.
